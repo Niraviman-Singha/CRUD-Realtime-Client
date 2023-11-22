@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "74910816087",
+    "project_id": "cdud-realtime-client",
+    "storage_bucket": "cdud-realtime-client.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74910816087:android:5366d570b42c6776c25012",
+        "android_client_info": {
+          "package_name": "com.example.cdudrealtimeclient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAma8EhtjZ7ajy_c3xG674T_fAN3wCsLyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74910816087:android:c0ed096340bc5a3fc25012",
+        "android_client_info": {
+          "package_name": "com.example.crudrealtimeadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAma8EhtjZ7ajy_c3xG674T_fAN3wCsLyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
